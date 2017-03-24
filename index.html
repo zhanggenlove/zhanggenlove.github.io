@@ -1,16 +1,200 @@
-<!DOCTYPE html>
-<html lang="en">in
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta charset="UTF-8">
-	<title>blog</title>
-	<style>
-	.ss{
-		background-image: -webkit-gradient-
-	}
-	</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>my blog</title>
+<link href="css/myreset.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css"/>
+<style>
+body,ul{
+    margin: 0;
+    padding: 0;
+  }
+.full-screen {
+  width: 100%;
+  height: 100%;
+  display: none;
+ position: fixed;
+ left: 0;
+ top: 0;
+ right: 0;
+ bottom: 0; 
+}
+
+.full-screen li {
+  list-style-type: none;
+  background-color:#666;
+  width: 100%;
+  height: 10%;
+  background-repeat: no-repeat;
+   background-image: url(images/about-background.jpg);
+  background-size: 100% 1000%;
+  -webkit-transition: 400ms;
+          transition: 400ms;
+  -webkit-transform: rotateX(90deg);
+         transform: rotateX(90deg);
+}
+.full-screen li:nth-child(1) {
+  background-position: 0 0;
+  -webkit-transition-delay: 95ms;
+          transition-delay: 95ms;
+}
+.full-screen li:nth-child(2) {
+  background-position: 0 11.1%;
+  -webkit-transition-delay: 190ms;
+          transition-delay: 190ms;
+}
+.full-screen li:nth-child(3) {
+  background-position: 0 22.2%;
+  -webkit-transition-delay: 285ms;
+          transition-delay: 285ms;
+}
+.full-screen li:nth-child(4) {
+  background-position: 0 33.3%;
+  -webkit-transition-delay: 380ms;
+          transition-delay: 380ms;
+}
+.full-screen li:nth-child(5) {
+  background-position: 0 44.4%;
+  -webkit-transition-delay: 475ms;
+          transition-delay: 475ms;
+}
+.full-screen li:nth-child(6) {
+  background-position: 0 55.5%;
+  -webkit-transition-delay: 570ms;
+          transition-delay: 570ms;
+}
+.full-screen li:nth-child(7) {
+  background-position: 0 66.6%;
+  -webkit-transition-delay: 665ms;
+          transition-delay: 665ms;
+}
+.full-screen li:nth-child(8) {
+  background-position: 0 77.7%;
+  -webkit-transition-delay: 760ms;
+          transition-delay: 760ms;
+}
+.full-screen li:nth-child(9) {
+  background-position: 0 88.8%;
+  -webkit-transition-delay: 855ms;
+          transition-delay: 855ms;
+}
+.full-screen li:nth-child(10) {
+  background-position: 0 99.9%;
+  -webkit-transition-delay: 950ms;
+          transition-delay: 950ms;
+}
+</style>
 </head>
+
 <body>
-<p>我的博客终于发布到github上了，好开心啊</p>
-	<div id="dd" class="ss"></div>
+<div class="header">
+    <div class="icon">
+    <p >张小根</p>
+    <img src="images/zg1.png" alt="" style="width:200px;height:200px;border-radius:100%;">
+    </div>
+    <div class="nav">
+      <ul>
+         <li class="list"><a href="#"><div class="nav_list1"></div><div class="infor">CSS</div></a></li>
+         <li class="list"><a href="#"><div class="nav_list2"></div><div class="infor">音乐</div></a></li>
+         <li class="list"><a href="#"><div class="nav_list3"></div><div class="infor">随笔</div></a></li>
+         <li class="list"><a href="#"><div class="nav_list4"></div><div class="infor">美文</div></a></li>
+         <li class="list"><a href="#"><div class="nav_list5"></div><div class="infor">相册</div></a></li>
+         <li class="list" id="navlist6"><a href="javascript:void(0)"><div class="nav_list6"></div><div class="infor">About</div></a></li>
+      </ul>
+    </div>
+</div>
+<div class="content">
+    <div class="content_first">
+       <div class="content_first_title">
+          <h2>Welcome to 张小根 Blog</h2>
+          <p>这里没有跳转，没有滚动条，没有一切我讨厌的东西</p>
+          <p>一切依照我的喜好所建</p>
+          <p> 这里有我的积累，我的沉淀，希望你会喜欢这里</p>
+       </div>
+       <div class="content_first_title_box2"> <img src="images/index-label-4.jpg"></div> 
+       <a href="sonpages/main.html" class="content_first_title_box1">
+            <div class="content_first_title_box1_img" style="background-image:url(images/box2_myself.JPG)">
+            <div class="content_first_title_box1_title">
+            <div class="mask">
+              <h2>MY</h2>
+              <p>个人主页</p>
+            </div>
+            </div>
+          </div>
+       </a>
+    </div>
+    <div class="content_second">
+       <ul>
+           <li><img src="images/index-label-1.jpg"/></li>
+           <li><a href="#">
+               <div class="content_second_img1" style="background-image: url(images/label-3.png)"></div>
+               <div class="content_second_text1"><h2>CSS做的图标</h2><p>漂亮吧</p></div>
+           </a></li>
+           <li><a href="#">
+               <div class="content_second_img2" style="background-image: url(images/label-1.png)"></div>
+               <div class="content_second_text2"><h2>我的主页</h2><p>戳进来</p></div>
+               </a>
+           </li>
+           <li><img src="images/index-label-3.jpg"/></li>
+           <li><img src="images/index-label-2.jpg"/></li>
+           <li><a href="#">
+               <div class="content_second_img3" style="background-image: url(images/label-2.png)"></div>
+               <div class="content_second_text3"><h2>萌萌哒哒</h2><p>前端dog</p></div>
+           </a></li>
+       </ul>      
+    </div>
+    <div class="content_third">
+        <ul>
+           <li><a href="#">
+               <div class="content_third_img4" style="background-image: url(images/label-6.png)"></div>
+               <div class="content_third_text4"><h2>博客源代码</h2><p>看这里</p></div> 
+           </a></li>
+           <li><img src="images/index-label-5.jpg"/></li>
+           <li><a href="#"><img src="images/thanks.gif"/></a></li>
+        </ul>      
+    </div>
+</div>
+<ul class="full-screen" id="full-screen">
+      <li ></li>
+      <li ></li>
+      <li ></li>
+      <li ></li>
+      <li ></li>
+      <li ></li>
+      <li ></li>
+      <li ></li>
+      <li ></li>
+      <li ></li>
+  </ul>
+  <script>
+  var navlist6=document.getElementById('navlist6');
+  var ul=document.getElementsByClassName('full-screen');
+  var list=ul[0].getElementsByTagName('li');
+  var full_screen=document.getElementById('full-screen');
+  navlist6.onclick=function(){
+    full_screen.style.display="block";
+    a();
+
+  }
+  var a=function(){
+  setTimeout(function(){
+  for(var i=0;i<list.length;i++){
+    list[i].style.transform="rotateX(0deg)";
+  }
+      // window.location.href="about.html";
+//     setTimeout(function(){
+//     window.location.href="about.html";
+// }
+//     },1000)
+},500);
+    setTimeout(function(){
+    window.location.href="about.html";
+},2000)
+}
+
+
+  </script>
 </body>
 </html>
