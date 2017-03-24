@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <link href="css/myreset.css" rel="stylesheet" type="text/css" />
+  <link href="css/about.css" rel="stylesheet" type="text/css" />
+  <link href="js/jqueryui/css/base/jquery-ui-1.10.4.custom.min.css" rel="stylesheet" type="text/css" />
+  <!-- <link href="bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css" /> -->
+  <script src="js/jqueryui/js/jquery-1.10.2.js"></script>
+  <script src="js/jqueryui/js/jquery-ui-1.10.4.custom.min.js"></script>
+
+	<title>About</title>
+	<style>
+	.navgator{
+		width: 100%;
+		height: 50px;
+		position: relative;
+	}
+	.navgator ul{
+		list-style-type: none;
+	}
+	.navgator li{
+		width: 10%;
+		height: 50px;
+		float: right;
+	}
+	</style>
+</head>
+<body>
+<header class='navgator'>
+	<ul>
+		<li>Home</li>
+		<li>js笔记</li>
+		<li>杂记</li>
+		<li>css</li>
+		<li>随记</li>
+	</ul>
+</header>
+
+<!-- 加载页面时的transform -->
+	<ul class="full-screen" id="full-screen">
+			<li ></li>
+			<li ></li>
+			<li ></li>
+			<li ></li>
+			<li ></li>
+			<li ></li>
+			<li ></li>
+			<li ></li>
+			<li ></li>
+			<li ></li>
+	</ul>
+<script>
+var list=$('#full-screen li');
+
+var a=function(){
+
+	setTimeout(function(){
+	for(var i=0;i<list.length;i++){
+		list[i].style.transform="rotateX(90deg)";
+	}
+	setTimeout(function(){
+		$('#full-screen').hide(100);
+	},1300)
+},300)
+	
+}
+a();
+
+</script>
+</body>
+</html>
