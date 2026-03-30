@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://100plans.app/en</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/about</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/about</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/about</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/chanfei</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/chanfei</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/chanfei</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/coin-focus</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/coin-focus</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/coin-focus</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/moocat</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/moocat</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/moocat</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/quick-keyboard</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/quick-keyboard</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/quick-keyboard</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/doc-scanner</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/doc-scanner</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/doc-scanner</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/zzzappy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/zzzappy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/zzzappy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/music-switch</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/music-switch</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/music-switch</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/sakurago</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/sakurago</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/sakurago</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/chanfei/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/chanfei/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/chanfei/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/chanfei/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/chanfei/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/chanfei/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/chanfei/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/chanfei/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/coin-focus/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/coin-focus/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/coin-focus/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/coin-focus/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/coin-focus/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/coin-focus/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/coin-focus/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/coin-focus/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/moocat/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/moocat/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/moocat/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/moocat/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/moocat/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/moocat/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/moocat/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/moocat/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/quick-keyboard/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/quick-keyboard/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/quick-keyboard/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/quick-keyboard/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/quick-keyboard/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/quick-keyboard/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/quick-keyboard/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/quick-keyboard/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/doc-scanner/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/doc-scanner/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/doc-scanner/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/doc-scanner/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/doc-scanner/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/doc-scanner/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/doc-scanner/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/doc-scanner/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/zzzappy/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/zzzappy/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/zzzappy/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/zzzappy/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/zzzappy/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/zzzappy/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/zzzappy/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/zzzappy/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/music-switch/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/music-switch/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/music-switch/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/music-switch/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/music-switch/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/music-switch/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/music-switch/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/music-switch/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/sakurago/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/en/app/sakurago/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/sakurago/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/app/sakurago/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/sakurago/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/app/sakurago/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/app/sakurago/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/app/sakurago/terms"/>
+  </url>
+  <!-- Site-level privacy policy -->
+  <url>
+    <loc>https://100plans.app/en/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/privacy"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/privacy</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/privacy"/>
+  </url>
+  <!-- Site-level terms of service -->
+  <url>
+    <loc>https://100plans.app/en/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/zh/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/terms"/>
+  </url>
+  <url>
+    <loc>https://100plans.app/ja/terms</loc>
+    <lastmod>2026-03-20</lastmod>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://100plans.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://100plans.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://100plans.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://100plans.app/en/terms"/>
+  </url>
+</urlset>
